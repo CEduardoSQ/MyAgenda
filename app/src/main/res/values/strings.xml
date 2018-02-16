@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAgenda</string>
+
+    <string name="monday">MONDAY</string>
+    <string name="tuesday">TUESDAY</string>
+    <string name="wednesday">WEDNESDAY</string>
+    <string name="thursday">THURSDAY</string>
+    <string name="friday">FRIDAY</string>
+
+    <string name="no_events">No Events</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_class">Add Class</string>
+    <string name="starts">Starts</string>
+    <string name="ends">Ends</string>
+    <string name="Class">Class</string>
+    <string name="save">Save</string>
+</resources>
